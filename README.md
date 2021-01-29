@@ -13,11 +13,11 @@ npm install next react react-dom
 (con solo instalar next, ya tendremos el framework de Next.js).
 
 Paso 3
-Creamos una carpeta llamada "pages". Aquí se colocaran las pantallas (archivos) que seran visitados desde el navegador.
-Cada .js que creemos dentro de la carpeta pages, next.js los va a tomar como pantallas y las vamos a poder levantar sin necesidad de crear ningun route.
+Creamos una carpeta llamada "pages". Aquí se colocarán las pantallas (archivos) que seran visitados desde el navegador.
+Cada .js que creemos dentro de la carpeta pages, next.js los va a tomar como pantallas y las vamos a poder levantar sin necesidad de crear ningún route.
 
 Paso 4
-Dentro del "package.json" agregamos el siguiente bloque de codigo:
+Dentro del "package.json" agregamos el siguiente bloque de código:
 
   "scripts": {
     "dev": "next",
